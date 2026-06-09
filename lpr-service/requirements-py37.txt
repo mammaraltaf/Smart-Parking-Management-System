@@ -1,0 +1,10 @@
+# Legacy fallback for Python 3.7 only (no Ultralytics 8). Prefer Python 3.10+ and requirements.txt.
+fastapi>=0.68.0,<0.84.0
+uvicorn[standard]>=0.15.0,<0.18.0
+python-multipart>=0.0.5
+opencv-python-headless>=4.5.0,<4.6.0
+numpy>=1.19.0,<1.22.0
+Pillow>=8.0.0
+easyocr>=1.4.0,<1.7.0
+torch>=1.10.0,<1.14.0
+torchvision>=0.11.0,<0.15.0

@@ -1,0 +1,11 @@
+# Python 3.10–3.13 recommended. After venv: python --version (must NOT be 3.7 or older)
+
+fastapi>=0.68.0
+uvicorn[standard]>=0.15.0
+python-multipart>=0.0.5
+opencv-python-headless>=4.8.0
+numpy>=1.26.0
+ultralytics>=8.0.0
+easyocr>=1.7.0
+torch>=2.0.0
+torchvision>=0.15.0
